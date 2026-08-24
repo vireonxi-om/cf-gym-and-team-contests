@@ -116,4 +116,4 @@ int main()
 		printf("%lld\n",ans);
 	}
 	return 0;
-}
+}// maintenance note (3): small formatting cleanup on this file — 2026-08-24
