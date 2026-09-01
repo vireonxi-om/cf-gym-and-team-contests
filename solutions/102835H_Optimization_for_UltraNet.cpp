@@ -83,4 +83,4 @@ int main()
 	}
 	cout << ans << endl;
 	return 0;
-}
+}// maintenance note (6): note time complexity in this file — 2026-09-01
