@@ -148,4 +148,4 @@ int main() {
 	if (ans) cout << "First player will win\n";
 	else cout << "Second player will win\n";
 	return 0;
-}
+}// maintenance note (7): add complexity note to this file — 2026-09-03
