@@ -27,3 +27,4 @@ int main(){
     for(int i=0; i<t; i++) solve();
     return 0;
 }
+// maintenance note (11): add complexity note to this file — 2026-09-13
