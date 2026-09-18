@@ -39,3 +39,4 @@ int main(){
     if(can) printf("%lld\n", sum);
     else printf("-1\n");
 }
+// maintenance note (13): add edge-case comment to this file — 2026-09-18
