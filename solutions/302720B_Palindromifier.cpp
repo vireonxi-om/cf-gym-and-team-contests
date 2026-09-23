@@ -14,3 +14,4 @@ int main(){
     printf("R %d\n", 2*strlen(s)-1);
     return 0;
 }
+// maintenance note (15): add editorial link comment to this file — 2026-09-23
