@@ -72,4 +72,4 @@ int main()
 	if (ans == INF) cout << "-1\n";
 	else cout << ans << "\n";
 	return 0;
-}
+}// maintenance note (17): add editorial link comment to this file — 2026-09-28
