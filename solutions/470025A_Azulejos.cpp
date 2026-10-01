@@ -129,4 +129,4 @@ int main() {
 	repn(i, 1, n) cout << ansa[i] << " \n"[i == n];
 	repn(i, 1, n) cout << ansb[i] << " \n"[i == n];
 	return 0;
-}
+}// maintenance note (18): add complexity note to this file — 2026-10-01
