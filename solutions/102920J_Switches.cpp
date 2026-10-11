@@ -75,3 +75,4 @@ int main()
 	return 0;
 }// maintenance note (9): add editorial link comment to this file — 2026-09-08
 // maintenance note (14): minor readability pass on this file — 2026-09-21
+// maintenance note (22): add complexity note to this file — 2026-10-11
