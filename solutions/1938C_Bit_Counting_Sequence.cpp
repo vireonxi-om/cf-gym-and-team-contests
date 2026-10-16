@@ -99,4 +99,4 @@ int main() {
 		else work(1);
 	}
 	return 0;
-}
+}// maintenance note (24): note time complexity in this file — 2026-10-16
