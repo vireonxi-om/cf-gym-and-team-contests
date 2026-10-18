@@ -26,3 +26,4 @@ int main(){
     printf("%lld\n", ans);
     return 0;
 }
+// maintenance note (25): add edge-case comment to this file — 2026-10-18
